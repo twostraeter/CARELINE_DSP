@@ -1,0 +1,13 @@
+<svg id="Molecule_Input-Mit-Dropdown-Mit-Titel" data-name="Molecule / Input-Mit-Dropdown-Mit-Titel" xmlns="http://www.w3.org/2000/svg" width="308" height="66" viewBox="0 0 308 66">
+  <text id="Betreff_auswählen" data-name="Betreff auswählen" fill="#00778c" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="16">Betreff auswählen</tspan></text>
+  <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(-31 -26)">
+    <text id="Wählen_Sie_einen_Betreff_aus_der_Liste_aus" data-name="Wählen Sie einen Betreff aus der Liste aus" transform="translate(47 67)" fill="#00778c" font-size="12" font-family="GalanoGrotesque-Light, Galano Grotesque" font-weight="300"><tspan x="0" y="12">Wählen Sie einen Betreff aus der Liste aus</tspan></text>
+    <g id="Rechteck_8" data-name="Rechteck 8" transform="translate(31 56)" fill="none" stroke="#00778c" stroke-width="1">
+      <rect width="308" height="36" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="307" height="35" rx="7.5" fill="none"/>
+    </g>
+    <g id="Atom_Icon_DropDown" data-name="Atom / Icon / DropDown" transform="translate(309 71.917)">
+      <path id="Pfad_4" data-name="Pfad 4" d="M9961.313,5011l7.317,6.166c.148,0,7.6-6.166,7.6-6.166" transform="translate(-9961.313 -5011)" fill="none" stroke="#00778c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

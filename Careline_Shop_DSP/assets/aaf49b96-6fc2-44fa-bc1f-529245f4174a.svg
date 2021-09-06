@@ -1,0 +1,15 @@
+<svg id="Molecule_Button_Merkliste" data-name="Molecule / Button / Merkliste" xmlns="http://www.w3.org/2000/svg" width="128" height="40" viewBox="0 0 128 40">
+  <rect id="Rechteck_248" data-name="Rechteck 248" width="40" height="40" rx="8" fill="#00778c"/>
+  <g id="Gruppe_378" data-name="Gruppe 378" transform="translate(-1698.31 -854.355)">
+    <g id="Gruppe_377" data-name="Gruppe 377" transform="translate(933.684 -103.644)">
+      <g id="Gruppe_375" data-name="Gruppe 375" transform="translate(778.686 970)">
+        <path id="Pfad_143" data-name="Pfad 143" d="M155.052,165.729a4.451,4.451,0,0,1,4.45-4.451v-1.663a.611.611,0,0,0-.611-.611H147.052a.612.612,0,0,0-.612.611V176.68a.612.612,0,0,0,.949.51l5.245-3.473a.614.614,0,0,1,.676,0l5.244,3.473a.612.612,0,0,0,.949-.51v-6.5A4.451,4.451,0,0,1,155.052,165.729Z" transform="translate(-146.44 -159.004)" fill="#fff"/>
+        <g id="Gruppe_374" data-name="Gruppe 374" transform="translate(10.246 3.909)">
+          <rect id="Rechteck_245" data-name="Rechteck 245" width="1.44" height="5.632" rx="0.72" transform="translate(2.096)" fill="#fff"/>
+          <rect id="Rechteck_246" data-name="Rechteck 246" width="1.441" height="5.632" rx="0.72" transform="translate(5.632 2.096) rotate(90)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text id="Zur_Merkliste" data-name="Zur Merkliste" transform="translate(48 25)" fill="#328796" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Zur Merkliste</tspan></text>
+</svg>

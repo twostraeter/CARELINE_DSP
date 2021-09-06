@@ -1,0 +1,619 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-09-06T09:47:13.156Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "2d249a40-c38b-42bd-9c5c-c32e641a0925",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Arrow-external",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "64645953-975a-414a-a689-aeca1180ab88",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "ad2a826f-3559-4f98-b95e-a888fbaced27",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Cancel",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "840b2904-5778-40d8-989a-3fb0dd44af06",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "ecd3ae87-4b89-4a21-b34f-9fd995493f44",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Covid",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "9c150b9c-8d72-43ce-a0f1-dda28d16a32a",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d136e4ab-a79d-486f-adcd-611d5f8ac244",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / DropDown",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "be40559a-1d4f-4498-b76a-1a3972d38d18",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "009cdbf5-8a58-43bb-a1ae-d83e67a0d52e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / DropUp",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "08a7650c-4db4-4d81-8e42-648ac61712e8",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e5b463d4-0b5c-4dc6-a422-6641fe5269ba",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Erste Hilfe",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "fca2e41d-9822-44fd-b69b-ab5b071e41a5",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "48634511-7fb4-4527-9897-47b1bed802d2",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Hook",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "17c41571-e225-4fe0-ab0c-74e472349f3d",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1eb499d0-5f26-422c-8068-62e14b1a9f68",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Hygiene",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "e79b6516-0221-495a-a6d3-56c8166400bf",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "85744a1a-dd69-49e6-a5f4-5f9c678b567c",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Lieferservice",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "d0f36591-5063-432b-81d7-393adc3dfdff",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c510cbcb-ab1e-4981-9917-fa2b567f4317",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Schließen",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "c1e2fcf5-76a7-4b82-832f-c396f2ba076d",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "06fcc701-62cf-4599-8626-590301dc0bf8",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Schloss",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "02a9e0d4-2dde-4b3b-b412-e6d505ea77ec",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8fcff579-5361-4914-9681-52ccce55b11d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Service",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "b18f8768-65b9-4974-a31f-6a8d9b73ea34",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6a9a304a-8cce-41e9-808d-a640645ab66e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Sitzen&Liegen",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "e91b75d6-204d-4c55-ad04-34f59ff1446f",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "3da6e16a-37f0-412a-b306-2afed809ed61",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Sonstige",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "09a992a6-5cda-4dbe-b4f9-a3a2d77e5a77",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "beae6cfd-c3bb-49d2-a9cb-9fd30fdd4a9c",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Textilien",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "e04b0b9f-38e4-4cfb-bb5d-86d93e34ff3d",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5f9e8a60-07be-4220-86ff-c768d7874ccb",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Transfer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "b9a3db2e-64ba-49be-bcce-67eea666ed03",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "b11fe9e5-5f27-40b2-a065-2db592b069aa",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Atom / Icon / Versorgung",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "71cf541b-2b71-438c-945a-40dd3ab744cc",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f8abc150-9b96-4a39-8bb9-495b17150dd6",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Chatbubble",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "c3ad3784-e445-40a7-9aa4-b06e8cd53f0f",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "0a055f87-fc1a-401a-baa6-c71bb941af42",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Katalog Sticky",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "3229e01d-eaa4-4026-848f-85b92c79f309",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "b52c7dca-6ae2-4b43-b9ff-8fe00b723134",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Merkliste",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "1c74cd16-f52c-4be4-8844-cff62d291884",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8d6c87f1-c251-4a1b-b3be-59e72724f203",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Merkliste",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "aaf49b96-6fc2-44fa-bc1f-529245f4174a",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "02855a20-3721-471f-81c6-af845cf2d16d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Primary",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "94c5d5e5-f63c-4c91-a1b0-6b4449a6a0f1",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "517903d6-b296-48ac-971f-3c6c6fc04afa",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Primary-extern",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "5584cbb4-8e4c-4d4b-a448-23edcced8e40",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a21a7ffa-4425-4b8d-8f0d-b97821fcf32d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Secondary",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "920ec710-6529-48b8-b406-4992bba05f77",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "4ffec05e-ec71-40ac-a0d5-73cdf2fcc348",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Button / Warenkorb",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "b2eb94e1-cc25-4853-b3dd-336b9cf66476",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c3fd88d6-15c5-4ed2-9f0a-b6c97f30e9ca",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Input /",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "14497e8d-01b9-45e0-b1b9-8ab50a78af50",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "7e6c238f-af8b-4121-8e08-de0f76c3261a",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Input / Counter",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "061e8eef-f102-4761-b8a7-bb7200469a13",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a596fdab-53bb-47e1-84ac-86d268471a77",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Input / Dropdown-Mit-Hintergrund",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "01299274-cc03-41e6-a1ad-f562d489166e",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "df187158-f15c-449c-a728-359ad4f3a475",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Input-Mit-Dropdown-Mit-Titel",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "bfc41aa9-d7c7-426a-b104-b29b912e22b9",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "44207e25-ede9-4d5a-a426-ef39dddb8805",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Molecule / Input-Mit-Titel",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "099329d1-72c2-4122-817c-95d315dd717b",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "185d15ed-cb4d-41f2-89fb-b14d7dfbeb92",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Organism / Footer",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "f9c5e5fb-c297-48e7-8d94-5a7a1ba3db10",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e26ce481-7cda-4d11-9774-b7aaab52489f",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Organism / Footer / Shop",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "a88f70dd-f416-4683-bed5-af818166e878",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "31f6307f-d74e-4d80-9264-40d73aaf239e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Organism / Nav / CARELINE-SHOP",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "6ccfd7f8-6395-4248-933a-cdd9e914e8e5",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "73982598-5f8b-46d1-829d-331ad4ae0228",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Organism / Nav Shop Ausgeklappt",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "e4a9ceda-9f03-47e0-b6a0-d12105a472c3",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      }
+    }
+  ]
+}

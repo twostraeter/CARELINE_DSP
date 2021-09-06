@@ -1,0 +1,9 @@
+<svg id="Molecule_Button_Secondary" data-name="Molecule / Button / Secondary" xmlns="http://www.w3.org/2000/svg" width="174" height="38" viewBox="0 0 174 38">
+  <g id="Gruppe_116" data-name="Gruppe 116" transform="translate(95 265)" style="isolation: isolate">
+    <g id="Rechteck_29" data-name="Rechteck 29" transform="translate(-95 -265)" fill="none" stroke="#6f6f6f" stroke-width="1">
+      <rect width="174" height="38" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="173" height="37" rx="3.5" fill="none"/>
+    </g>
+    <text id="Secondary_Button" data-name="Secondary Button" transform="translate(-8 -241)" fill="#707070" font-size="16" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="-71.464" y="0">Secondary Button</tspan></text>
+  </g>
+</svg>

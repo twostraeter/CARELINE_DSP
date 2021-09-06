@@ -1,0 +1,7 @@
+<svg id="Molecule_Input_" data-name="Molecule / Input /" xmlns="http://www.w3.org/2000/svg" width="260" height="36" viewBox="0 0 260 36">
+  <text id="Ihr_Name" data-name="Ihr Name" transform="translate(16 10)" fill="#194453" font-size="12" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="13">Ihr Name</tspan></text>
+  <g id="Rechteck_8" data-name="Rechteck 8" fill="none" stroke="#194453" stroke-width="1">
+    <rect width="260" height="36" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="259" height="35" rx="7.5" fill="none"/>
+  </g>
+</svg>

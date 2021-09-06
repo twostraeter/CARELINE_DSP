@@ -1,0 +1,17 @@
+<svg id="Molecule_Button_Warenkorb" data-name="Molecule / Button / Warenkorb" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <rect id="Rechteck_207" data-name="Rechteck 207" width="56" height="56" fill="#65af7d"/>
+  <g id="Atom_Icon_Cart" data-name="Atom / Icon / Cart" transform="translate(14.124 15.252)">
+    <g id="Gruppe_277" data-name="Gruppe 277">
+      <g id="ZKKq2G">
+        <g id="Gruppe_227" data-name="Gruppe 227">
+          <path id="Pfad_7" data-name="Pfad 7" d="M4185.765,1974.262h14.588a2.953,2.953,0,0,0,2.526-4.347,2.01,2.01,0,0,1-.118-1.517c1.414-5.206,2.8-8.625,4.187-13.84.07-.262.161-.365.434-.36,1.1.02,2.192-.013,3.288.018a1.106,1.106,0,0,0,1.184-.737v-.53a1.107,1.107,0,0,0-1.184-.738c-1.4.029-2.792.009-4.187.01-.636,0-.9.221-1.086.89-.273,1.015-.548,2.029-.832,3.083h-.385c-7.661,0-15.321.009-22.982-.014a1.061,1.061,0,0,0-1.037,1.462c1.228,4.521,2.432,7.252,3.648,11.777a.96.96,0,0,0,1.1.87q7.83,0,15.661-.01a.561.561,0,0,1,.6.4c.388.882-.012,1.591-.924,1.592h-15.414a.983.983,0,0,0-.929,1.406.887.887,0,0,0,.865.579" transform="translate(-4180.1 -1952.211)" fill="#fff"/>
+          <path id="Pfad_8" data-name="Pfad 8" d="M4231.986,2025.915h5.919" transform="translate(-4222.193 -2003.855)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Gruppe_228" data-name="Gruppe 228" transform="translate(7.624 22.462)">
+        <ellipse id="Ellipse_53" data-name="Ellipse 53" cx="1.517" cy="1.517" rx="1.517" ry="1.517" transform="translate(6.592)" fill="#fff"/>
+        <ellipse id="Ellipse_54" data-name="Ellipse 54" cx="1.517" cy="1.517" rx="1.517" ry="1.517" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

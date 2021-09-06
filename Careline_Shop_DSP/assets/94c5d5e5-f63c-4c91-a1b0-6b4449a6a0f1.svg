@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="56" viewBox="0 0 172 56">
+  <defs>
+    <filter id="Pfad_293" x="0" y="0" width="172" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Molecule_Button_Primary" data-name="Molecule / Button / Primary" transform="translate(9 8)">
+    <g id="Gruppe_115" data-name="Gruppe 115" transform="translate(-13 -26)" style="isolation: isolate">
+      <g transform="matrix(1, 0, 0, 1, 4, 18)" filter="url(#Pfad_293)">
+        <path id="Pfad_293-2" data-name="Pfad 293" d="M3,0H150a4,4,0,0,1,4,4V34a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4C0,1.791.791,0,3,0Z" transform="translate(9 8)" fill="#ef626c"/>
+      </g>
+      <text id="Primary_Button" data-name="Primary Button" transform="translate(90 50)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="-60.888" y="0">Primary Button</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="668.908" viewBox="0 0 1440 668.908">
+  <defs>
+    <filter id="Rechteck_29" x="1031" y="252.908" width="319.866" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_29-2" x="516" y="254.908" width="252.866" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Organism_Footer" data-name="Organism / Footer" transform="translate(0 0.5)">
+    <g id="Footer_Lower" data-name="Footer/Lower">
+      <rect id="Rechteck_85" data-name="Rechteck 85" width="1440" height="300" transform="translate(0 368.408)" fill="#194453"/>
+      <text id="Trage_Sie_sich_jetzt_für_unseren_Newsletter_ein" data-name="Trage Sie sich jetzt für unseren Newsletter ein" transform="translate(98 463.908)" fill="#fff" font-size="22" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Trage Sie sich jetzt für unseren Newsletter ein</tspan></text>
+      <g id="Gruppe_110" data-name="Gruppe 110" transform="translate(0 -4813.592)">
+        <g id="Molecule_Input_" data-name="Molecule / Input /" transform="translate(728 5250)">
+          <text id="Ihre_E-Mail_Adresse" data-name="Ihre E-Mail Adresse" transform="translate(16 12.105)" fill="#fff" font-size="12" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="12">Ihre E-Mail Adresse</tspan></text>
+          <g id="Rechteck_8" data-name="Rechteck 8" fill="none" stroke="#fff" stroke-width="1">
+            <path d="M8,0H404a0,0,0,0,1,0,0V40a0,0,0,0,1,0,0H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,.5H403a.5.5,0,0,1,.5.5V39a.5.5,0,0,1-.5.5H8A7.5,7.5,0,0,1,.5,32V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+          </g>
+        </g>
+        <g id="Gruppe_107" data-name="Gruppe 107" transform="translate(-0.094)">
+          <g id="Gruppe_106" data-name="Gruppe 106" transform="translate(1131 5250)">
+            <g id="Atom_Button" data-name="Atom / Button">
+              <g id="Rechteck_29-3" data-name="Rechteck 29" transform="translate(0.094)" fill="#fff" stroke="#fff" stroke-width="1">
+                <path d="M0,0H203a8,8,0,0,1,8,8V32a8,8,0,0,1-8,8H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+                <path d="M1,.5H203A7.5,7.5,0,0,1,210.5,8V32a7.5,7.5,0,0,1-7.5,7.5H1A.5.5,0,0,1,.5,39V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+              </g>
+              <text id="Newsletter_bestellen" data-name="Newsletter bestellen" transform="translate(105.094 25)" fill="#194453" font-size="14" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="-70.364" y="0">Newsletter bestellen</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="Impressum" transform="translate(305 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Impressum</tspan></text>
+      <text id="Datenschutz" transform="translate(481 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Datenschutz</tspan></text>
+      <text id="Allgemeine_Geschäftsbedingungen" data-name="Allgemeine Geschäftsbedingungen" transform="translate(665 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Allgemeine Geschäftsbedingungen</tspan></text>
+      <text id="Versand" transform="translate(1035 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Versand</tspan></text>
+      <text id="Widerrufserklärung" transform="translate(1187 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Widerrufserklärung</tspan></text>
+      <text id="_2021_CARELINE" data-name="2021 © CARELINE" transform="translate(98 583.5)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">2021 © CARELINE</tspan></text>
+      <line id="Linie_39" data-name="Linie 39" x2="1305" transform="translate(67.5 535.908)" fill="none" stroke="#fff" stroke-width="1" opacity="0.659"/>
+    </g>
+    <g id="Footer_Links" data-name="Footer/Links">
+      <g id="Gruppe_128" data-name="Gruppe 128" transform="translate(0 0.408)">
+        <text id="CARELINE" transform="translate(98 87)" fill="#00778c" font-size="20" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="0" y="0">CARELINE</tspan></text>
+        <text id="Über_CARELINE" data-name="Über CARELINE" transform="translate(98 136)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Über CARELINE</tspan></text>
+        <text id="Geschichte" transform="translate(98 175)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Geschichte</tspan></text>
+        <text id="Karriere" transform="translate(98 214)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Karriere</tspan></text>
+        <text id="Kundenmeinungen" transform="translate(98 253)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Kundenmeinungen</tspan></text>
+        <text id="Kataloge_bestellen" data-name="Kataloge bestellen" transform="translate(98 292)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Kataloge bestellen</tspan></text>
+      </g>
+      <line id="Linie_38" data-name="Linie 38" x2="1305" transform="translate(67.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.659"/>
+      <g id="Wohnen" transform="translate(-53)">
+        <text id="CARELINE_Einrichtung" data-name="CARELINE Einrichtung" transform="translate(1093 87.408)" fill="#00778c" font-size="20" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="0" y="0">CARELINE Einrichtung</tspan></text>
+        <text id="Innenarchitektur" transform="translate(1093 136.408)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Innenarchitektur</tspan></text>
+        <text id="Produkte" transform="translate(1093 175.408)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Produkte</tspan></text>
+        <text id="Referenzen" transform="translate(1093 214.408)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="0">Referenzen</tspan></text>
+        <g id="Molecule_Button_Primary-extern" data-name="Molecule / Button / Primary-extern" transform="translate(1093 260.408)">
+          <g transform="matrix(1, 0, 0, 1, -1040, -260.91)" filter="url(#Rechteck_29)">
+            <rect id="Rechteck_29-4" data-name="Rechteck 29" width="301.866" height="38" rx="4" transform="translate(1040 260.91)" fill="#b59336"/>
+          </g>
+          <g id="Gruppe_118" data-name="Gruppe 118" transform="translate(77 6)">
+            <text id="Direkt_zu_CARELINE_Einrichtung_" data-name="Direkt zu CARELINE Einrichtung " transform="translate(66 18)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="-127.408" y="0">Direkt zu CARELINE Einrichtung </tspan></text>
+            <g id="Gruppe_117" data-name="Gruppe 117" transform="translate(195.431 13.005) rotate(-45)">
+              <line id="Linie_4" data-name="Linie 4" x2="11" transform="translate(0 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+              <path id="Pfad_1" data-name="Pfad 1" d="M3.815,3.815,0,0" transform="translate(7.185 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+              <path id="Pfad_2" data-name="Pfad 2" d="M3.815,0,0,3.815" transform="translate(7.185 4.185)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Pflegeshop" transform="translate(169)">
+        <g id="Gruppe_409" data-name="Gruppe 409">
+          <text id="CARELINE_Pflegeshop" data-name="CARELINE Pflegeshop" transform="translate(356 87.408)" fill="#00778c" font-size="20" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="0" y="0">CARELINE Pflegeshop</tspan></text>
+        </g>
+        <g id="Molecule_Button_Primary-extern-2" data-name="Molecule / Button / Primary-extern" transform="translate(356 262.408)">
+          <g transform="matrix(1, 0, 0, 1, -525, -262.91)" filter="url(#Rechteck_29-2)">
+            <rect id="Rechteck_29-5" data-name="Rechteck 29" width="234.866" height="38" rx="4" transform="translate(525 262.91)" fill="#00778c"/>
+          </g>
+          <g id="Gruppe_118-2" data-name="Gruppe 118" transform="translate(39 6)">
+            <text id="Direkt_zum_Pflegeshop" data-name="Direkt zum Pflegeshop" transform="translate(66 18)" fill="#fff" font-size="16" font-family="GalanoGrotesque-Bold, Galano Grotesque" font-weight="700"><tspan x="-88.944" y="0">Direkt zum Pflegeshop</tspan></text>
+            <g id="Gruppe_117-2" data-name="Gruppe 117" transform="translate(166.431 13.005) rotate(-45)">
+              <line id="Linie_4-2" data-name="Linie 4" x2="11" transform="translate(0 4)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+              <path id="Pfad_1-2" data-name="Pfad 1" d="M3.815,3.815,0,0" transform="translate(7.185 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+              <path id="Pfad_2-2" data-name="Pfad 2" d="M3.815,0,0,3.815" transform="translate(7.185 4.185)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+        <text id="Produkte-2" data-name="Produkte" transform="translate(356.5 120.908)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="16">Produkte</tspan></text>
+        <text id="Themenwelten" transform="translate(356.5 160.408)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="16">Themenwelten</tspan></text>
+        <text id="Registrieren_Anmelden" data-name="Registrieren/Anmelden" transform="translate(356.5 198.408)" fill="#328796" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="16">Registrieren/Anmelden</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

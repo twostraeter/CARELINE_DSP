@@ -1,0 +1,8 @@
+<svg id="Molecule_Input-Mit-Titel" data-name="Molecule / Input-Mit-Titel" xmlns="http://www.w3.org/2000/svg" width="260" height="66" viewBox="0 0 260 66">
+  <text id="Ihr_Name_" data-name="Ihr Name*" fill="#00778c" font-size="16" font-family="GalanoGrotesque-Medium, Galano Grotesque" font-weight="500"><tspan x="0" y="16">Ihr Name*</tspan></text>
+  <text id="Ihr_Name" data-name="Ihr Name" transform="translate(16 40)" fill="#00778c" font-size="12" font-family="GalanoGrotesque-Light, Galano Grotesque" font-weight="300"><tspan x="0" y="12">Ihr Name</tspan></text>
+  <g id="Rechteck_8" data-name="Rechteck 8" transform="translate(0 30)" fill="none" stroke="#00778c" stroke-width="1">
+    <rect width="260" height="36" rx="8" stroke="none"/>
+    <rect x="0.5" y="0.5" width="259" height="35" rx="7.5" fill="none"/>
+  </g>
+</svg>

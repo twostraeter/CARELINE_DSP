@@ -1,0 +1,415 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-09-06T09:47:13.156Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d2e35ca0-d760-47b0-9bcb-227fd6a4a577",
+      "name": "Headline 4",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "27da7ec2-c52b-401d-b4d4-1ee539eeece4",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d2e35ca0-d760-47b0-9bcb-227fd6a4a577",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "d2e35ca0-d760-47b0-9bcb-227fd6a4a577",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "d2e35ca0-d760-47b0-9bcb-227fd6a4a577",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "5841db1a-7149-46bc-ac9c-7fdfb51a0de4",
+      "name": "Headline 5",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "a764d08e-6dbc-4e6f-b5a5-cd5b1f5de3bb",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "5841db1a-7149-46bc-ac9c-7fdfb51a0de4",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "5841db1a-7149-46bc-ac9c-7fdfb51a0de4",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "5841db1a-7149-46bc-ac9c-7fdfb51a0de4",
+          "type": "size",
+          "value": "22",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "59788a26-8feb-436f-b39d-e880b29fb1bf",
+      "name": "Headline 6",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "93bedb86-6bd3-49a8-a911-54faddd5c7bc",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "59788a26-8feb-436f-b39d-e880b29fb1bf",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "59788a26-8feb-436f-b39d-e880b29fb1bf",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "59788a26-8feb-436f-b39d-e880b29fb1bf",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c07ca3c7-ebf2-47f0-a986-70dcd0304fd0",
+      "name": "Headline 3",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "bfded608-88e4-40a6-8d4e-fc88e6e6555d",
+        "last_sync": "2021-09-06T09:47:13.154Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c07ca3c7-ebf2-47f0-a986-70dcd0304fd0",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "c07ca3c7-ebf2-47f0-a986-70dcd0304fd0",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "c07ca3c7-ebf2-47f0-a986-70dcd0304fd0",
+          "type": "size",
+          "value": "26",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "6d202046-653d-48c1-94a0-425680cb8caf",
+      "name": "Breadcrumbs",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "f9a2d308-6675-4b9c-ab5f-a6614ee411da",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "6d202046-653d-48c1-94a0-425680cb8caf",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "6d202046-653d-48c1-94a0-425680cb8caf",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "6d202046-653d-48c1-94a0-425680cb8caf",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c0e20bde-1631-4e21-8c54-c1cc76f55c51",
+      "name": "Key Fact Übersicht",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "8a326292-d6f5-4bfe-9bcf-b1a1a1cd5c8f",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c0e20bde-1631-4e21-8c54-c1cc76f55c51",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "c0e20bde-1631-4e21-8c54-c1cc76f55c51",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "c0e20bde-1631-4e21-8c54-c1cc76f55c51",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "a3db927a-d39a-4680-8dba-f34073113d47",
+      "name": "Keyfact Produktdetail",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "ae7b003e-1bea-4fec-b3c1-636b9009ca4f",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "a3db927a-d39a-4680-8dba-f34073113d47",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "a3db927a-d39a-4680-8dba-f34073113d47",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "a3db927a-d39a-4680-8dba-f34073113d47",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "037a8840-9490-41d4-b027-130f9b1c83b5",
+      "name": "Headline 2",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "22aba99e-7cf6-4df4-8b00-ab4fa2a9696a",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "037a8840-9490-41d4-b027-130f9b1c83b5",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "037a8840-9490-41d4-b027-130f9b1c83b5",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "037a8840-9490-41d4-b027-130f9b1c83b5",
+          "type": "size",
+          "value": "32",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "533bdb3b-6806-4c9c-a04f-4b944e34b56e",
+      "name": "Label",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "c3bc3fc2-c9a2-42b1-94a0-4859819bcb28",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "533bdb3b-6806-4c9c-a04f-4b944e34b56e",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "533bdb3b-6806-4c9c-a04f-4b944e34b56e",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "533bdb3b-6806-4c9c-a04f-4b944e34b56e",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "eb6851ea-2ccf-4c7d-bff4-625e4a4192f9",
+      "name": "DISPLAY",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "f916d521-05a5-43f9-bd90-ecc6faea1a42",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "eb6851ea-2ccf-4c7d-bff4-625e4a4192f9",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "eb6851ea-2ccf-4c7d-bff4-625e4a4192f9",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "eb6851ea-2ccf-4c7d-bff4-625e4a4192f9",
+          "type": "size",
+          "value": "60",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8672b36a-a145-4f98-803d-d904db6f0fe2",
+      "name": "Copy",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "5a4e968a-748d-43a3-89b1-efad776c9c35",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8672b36a-a145-4f98-803d-d904db6f0fe2",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "8672b36a-a145-4f98-803d-d904db6f0fe2",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "8672b36a-a145-4f98-803d-d904db6f0fe2",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "cce12329-4596-4a1a-b07e-28a9ed9584a9",
+      "name": "Headline 1",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/ddfc61e0-fa61-4dd5-6630-c5db8e0e0a0f",
+        "id": "f0df25bd-6062-4c09-a65f-a5671c142b60",
+        "last_sync": "2021-09-06T09:47:13.155Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "cce12329-4596-4a1a-b07e-28a9ed9584a9",
+          "type": "custom",
+          "value": "Galano Grotesque",
+          "key": "family"
+        },
+        {
+          "id": "cce12329-4596-4a1a-b07e-28a9ed9584a9",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "cce12329-4596-4a1a-b07e-28a9ed9584a9",
+          "type": "size",
+          "value": "42",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
